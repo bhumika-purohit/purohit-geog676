@@ -7,5 +7,5 @@ Bhumika Purohit - Lab 3 Results
 
 
 
-Lab 3 Python Code
-<img width="1280" alt="Lab 3 Python Code" src="https://user-images.githubusercontent.com/123012280/216845943-dcae1830-93f4-4607-b7bc-014af6366f86.png">
+Lab 3 Executed Python Code
+<img width="1280" alt="Lab 3 Executed Python Code" src="https://user-images.githubusercontent.com/123012280/216846016-4de45320-762d-4a6e-aea1-7bd63eca552c.png">
