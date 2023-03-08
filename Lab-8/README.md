@@ -1,8 +1,8 @@
-Bhumika Purohit - GEOG 676: GIS Programming - GitHub ePortfolio
+**Bhumika Purohit - GEOG 676: GIS Programming - GitHub ePortfolio**
 
 
 
-Introducing the Industry Problem:
+**Introducing the Industry Problem:**
 
 
 
@@ -13,7 +13,7 @@ Since the 1800's, the number of wells, oil and gas wells, have exponentially inc
 
 
 
-Creation of the Software Tool Outline:
+**Creation of the Software Tool Outline:**
 
 
 
@@ -48,7 +48,7 @@ Creation of the Software Tool Outline:
 
 
 
-Project Planning Discussion:
+**Project Planning Discussion:**
 
 
 
