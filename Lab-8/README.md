@@ -97,30 +97,66 @@ To support the outcome of the Master Well Database, the success and accuracy of 
 
 
 
-1. Justify the Return on Investment (ROI)
 
 
 
-2. Interface with Users
+1. Justifying the Return on Investment (ROI)
 
 
 
-3. Gather requirements
+As mentioned when presenting the industry problem, there are innumerable amount of wells throughout the country. Moreover, companies are continuing to drill wells, which requires knowledge on existing well locations and other factors that may affect the companies decisions. This tool can provide assurance to companies as it can help the companies make their drilling decisions. With one Master Well Database, uncertainty can be minimized and companies would not need to waste time and money to try to research about the factors involved in their decision.
 
 
 
-4. Softwares, DBs, etc will be used
 
 
 
-5. Code with usages of NumPy, SciPy, PySAL, Model Builder and/or ArcPy
+2. Interfacing with Users
 
 
 
-6. Approach commenting, testing, status updates, and reporting
+The end product will be utilized within the realm of ArcGIS Pro and possibly ArcGIS Online. As the creation of the product is based on python codes, any other platforms that use a python environment can also be used.
 
 
 
-7. Deploy, maintain, and archive your software
 
 
+
+3. Gathering requirements
+
+
+
+The data will be obtained through many different services, which means that it may not be in the same format. However, Visual Studio Code adn ArcPy will be utilized to read any format of the data and further the process of the creation of the Master Well Database.
+
+
+
+
+
+
+4. Utilzing Software Softwares, DBs, etc will be used
+
+
+
+Visual Studio Code and ArcPy will be used for all programming needs and ArcGIS Pro for testing and delivery of final products.
+
+
+
+
+
+
+5. Monitoring Workflow Approach 
+
+
+
+Monitoring Workflow involves reporting, commenting, testing, and status updates. A project management timeline will be used to monitor workflow progress. Moreover, if more organization is needed, a Gantt Chart can be created. Most importantly, a cross-functional flowchart with the proposed workflow will be the primary workflow chart utilized for the creation of this project as it will involve the technical course of action. Lastly, meetings will occur as needed and milestones will be established to continue to monitor workflow progress. Workflow progress will be monitored until the end products have been created, a software tool and its code to be utilized in ArcGIS Pro.
+
+
+
+
+
+
+6. Software Maintenance
+
+
+
+Once the project has been completed, all the data involved with the project may remain in the system for 6 months without any extra cost. However, after that time period has ended, a monthly fee will be charged. 
