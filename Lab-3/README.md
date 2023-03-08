@@ -1,4 +1,14 @@
-Bhumika Purohit - Lab 3 Results
+Lab 3
+
+
+
+This lab looks into reading data, creating shape classes, and creating new objects based on the text file. Throughout this lab, this is what was learned:
+1. How to open, read from, and write to a text file using python
+2. How to create classs and objects
+
+
+
+Results
 
 
 
