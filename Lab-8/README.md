@@ -17,7 +17,8 @@ Since the 1800's, the number of wells, oil and gas wells, have exponentially inc
 
 
 
-1. Where will the software development be done. Lab 1
+1. Where will the software development be done.
+As stated earlier, the software tool will be built by utilizing ArcPy and Visual Studio Code. The structure and development of the codes within ArcPy and Visual Studio Code will be located in a GitHub repository. This GitHub repository is used to organize the project of creating the structure and development of the software tool. An example of a GitHub repository and it's structure: https://github.com/bhumika-purohit/purohit-geog676/
 
 
 
