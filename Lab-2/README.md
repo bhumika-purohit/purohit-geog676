@@ -1,4 +1,12 @@
-Bhumika Purohit - Lab 2 Results
+Lab 2
+
+
+
+This lab examines python variables and functions. It looks into what a List is and how to use python variables and functions to perform simple calculations on list items. This is also known as list comprehension. List comprehension can be beneficial to increasing the performance of the code and improving the accuracy.
+
+
+
+Results
 
 
 ![part 1](https://user-images.githubusercontent.com/123012280/214100276-34227084-6ae7-4819-a84a-c8d471a1abce.PNG)
