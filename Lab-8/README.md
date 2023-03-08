@@ -76,7 +76,7 @@ Typically, buffers are utilized to create areas that can be further analyzed usi
 
 
 
-To establish confidence of master well location, a graduated color Wells map can be built. Using graduated colors map can help with the size of wells and their locations. The map assists with organization to allow for better visualization. An example of building a graduate color Wells: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-6
+To establish confidence of master well location, a graduated color Wells map can be built. Using graduated colors map can help with the size of wells and their locations. The map assists with organization to allow for better visualization. An example of building a graduated color Wells: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-6
 
 
 
