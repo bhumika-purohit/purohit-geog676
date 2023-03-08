@@ -18,11 +18,21 @@ Since the 1800's, the number of wells, oil and gas wells, have exponentially inc
 
 
 1. Where will the software development be done.
+
+
+
 As stated earlier, the software tool will be built by utilizing ArcPy and Visual Studio Code. The structure and development of the codes within ArcPy and Visual Studio Code will be located in a GitHub repository. This GitHub repository is used to organize the project of creating the structure and development of the software tool. An example of a GitHub repository and it's structure: https://github.com/bhumika-purohit/purohit-geog676/
 
 
 
+
+
+
 2. You need to load several sets of data that represents the Well locations. Lab 3
+
+
+
+Loading several data sets, first, requires the need to read the files. This can be done through the use of code. The code can be written to read the data, parse through the data to ultimatily compile and organize the data. In the case of our industry problem of creating a Master Well Database, data sets need to be obtained from databases, including CAD, ArcGIS, Decision Space Geographics, Petrel, OpenWells, COMPASS, Drilling Info, HSI, and State Regulatory. Once these data sets have been read by the software tool, the tool can further the process the creation of the Master Well Database. An example of code that read data to find the areas of various shapes: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-3
 
 
 
