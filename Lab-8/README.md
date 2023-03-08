@@ -17,7 +17,7 @@ Since the 1800's, the number of wells, oil and gas wells, have exponentially inc
 
 
 
-1. Where will the software development be done.
+1. Choosing Location for Software Development.
 
 
 
@@ -28,7 +28,7 @@ As stated earlier, the software tool will be built by utilizing ArcPy and Visual
 
 
 
-2. You need to load several sets of data that represents the Well locations.
+2. Loading Several Data Sets that Represents Well Locations.
 
 
 
@@ -39,7 +39,10 @@ Loading several data sets, first, requires the need to read the files. This can 
 
 
 
-3. Inverse coordinates of the different Well locations to determine if any agree or their accuracy.
+3. Determining the Accuracy of the different Well Locations by Inversing Coordinates.
+
+
+
 To determine whether the data coordinates of the Well locations are accurate, the consistency of the well data should be examined. An example of this type of code can be found here: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-2
 
 
@@ -47,7 +50,10 @@ To determine whether the data coordinates of the Well locations are accurate, th
 
 
 
-4. Write to Master Well Geodatabase.
+4. Writing to Master Well Geodatabase.
+
+
+
 Once the accuracy of the data has been established, the data needs to be written into a master well geodatabase. A tool will be written to build a geodatabase to utilzie further in the process of the creation of the Master Well Database. An example of creating a tool to create a geodatabase: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-4
 
 
@@ -55,7 +61,10 @@ Once the accuracy of the data has been established, the data needs to be written
 
 
 
-5. Build a buffer to determine if the Well(s) were put in NAD83 vs. NAD 27. Lab 5
+5. Building a buffer to determine if the Well(s) were put in NAD83 vs. NAD 27.
+
+
+
 Typically, buffers are utilized to create areas that can be further analyzed using various tools. In this case, building buffers can help with checking whether the well data points were exported in NAD83 or NAD27. An example of creating buffers: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-5
 
 
@@ -64,6 +73,9 @@ Typically, buffers are utilized to create areas that can be further analyzed usi
 
 
 6. Establishing Confidence of Master Well location.
+
+
+
 To establish confidence of master well location, a graduated color Wells map can be built. Using graduated colors map can help with the size of wells and their locations. The map assists with organization to allow for better visualization. An example of building a graduate color Wells: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-6
 
 
@@ -72,6 +84,9 @@ To establish confidence of master well location, a graduated color Wells map can
 
 
 7. Utilizing aerial images to check Master Well Database.
+
+
+
 To support the outcome of the Master Well Database, the success and accuracy of the process needs to be examined. Utilizing aerial images is a way to do so. Utilizing aerial images allows one to examine the spacial aspects of the wells, which can check whether the Master Well Database is successfully and accurately created. An example of using aerial images to check Master Well Database: https://github.com/bhumika-purohit/purohit-geog676/tree/main/Lab-7
 
 
