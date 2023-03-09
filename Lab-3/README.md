@@ -8,6 +8,10 @@ This lab looks into reading data, creating shape classes, and creating new objec
 
 
 
+You will find the python code file within this Lab 3 folder as well.
+
+
+
 Results
 
 
