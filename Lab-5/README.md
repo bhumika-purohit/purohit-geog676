@@ -1,8 +1,12 @@
-Bhumika Purohit - Lab 5
+Lab 5
 
 
 
 This lab was based on Lab 4. The codes from Lab 4 were used to create a tool to use in ArcGis Pro. You will find the python code file within this Lab 5 folder as well. This python code file can be utilized to create a tool that will create buffers and intersections using the geodatabase create in Lab 4.
+
+
+
+Results
 
 
 
