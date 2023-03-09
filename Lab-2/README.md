@@ -6,6 +6,10 @@ This lab examines python variables and functions. It looks into what a List is a
 
 
 
+You will find the python code file within this Lab 2 folder as well.
+
+
+
 Results
 
 
