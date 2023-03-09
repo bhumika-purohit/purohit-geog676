@@ -1,4 +1,14 @@
-Bhumika Purohit - Lab 6
+Lab 6
+
+
+This lab looked into:
+1. Create a script that can generate a graduated color map
+2. Turn said script into a toolbox that can be accessed from the Geoprocessing pane in ArcGIS Pro
+3. Utilize a progressor inside the toolbox to inform the user how far along the script is in generating the map
+
+
+
+You will find the python code file within this Lab 6 folder as well.
 
 
 
